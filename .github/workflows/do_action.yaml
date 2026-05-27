@@ -8,3 +8,4 @@ jobs:
   jobs2:
     steps:
     - run: node --version
+    - run: node --version
